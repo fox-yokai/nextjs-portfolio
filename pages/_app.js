@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import Head from "next/head";
-import '../styles/globals.css';
+import '../styles/globals.scss';
 
 function MyApp({ Component, pageProps }) {
   return (

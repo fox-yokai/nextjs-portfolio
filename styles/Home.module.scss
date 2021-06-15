@@ -1,0 +1,71 @@
+// Variables
+$color-background: #4B4E6D;
+$color-black: #222;
+$color-white: #fff;
+$color-primary: #84DCC6;
+$color-secondary: #4B4E6D;
+
+
+.hero {
+  height: 30rem;
+}
+
+.heading {
+  color: $color-white;
+  text-transform: uppercase;
+  margin-left: 6rem;
+  padding-top: 6rem;
+
+  &__tagline {
+    color: $color-primary;
+  }
+
+  &__main {
+    font-size: 96px;
+    text-align: left;
+  }
+
+  &_secondary {
+    color: $color-white;
+    margin-left: 6rem;
+  }
+}
+
+.about_summary {
+  height: 20rem;
+  margin: 0 30%;
+  color: $color-white;
+  font-size: 1.3rem;
+  text-align: center;
+
+  p {
+    padding-bottom: 1rem;
+  }
+}
+
+.btn__main {
+  color: $color-primary;
+  background-color: $color-background;
+  border: 1px solid $color-primary;
+  padding: 12px 24px;
+  font-size: 1.3rem;
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  
+  &:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+}
+
+.btn_download {
+  color: $color-primary;
+  text-align: center;
+  border: 1px solid $color-primary;
+  padding: 8px 20px;
+  border-radius: 10px;
+
+  &:hover {
+    color: $color-white;
+    border: 1px solid $color-white; 
+  }
+}
+
