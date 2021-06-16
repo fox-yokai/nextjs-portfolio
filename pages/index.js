@@ -1,5 +1,9 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.scss'
+import Head from 'next/head';
+import styles from '../styles/Home.module.scss';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faJsSquare, faReact, faNodeJs, faBootstrap, faWordpress } from "@fortawesome/free-brands-svg-icons";
+
 
 export default function Home() {
   return (
@@ -20,13 +24,24 @@ export default function Home() {
           </h2>
         </section>
 
-        <section className={styles.about_summary}>
+        <section className="row" className={styles.about_summary}>
           <p>
             I'm a Minnesota based-full stack developer with experience in JavaScript and WordPress. I currently use my knowledge with software and technology to assist local non-profits build responsive and accessible websites.
           </p>
-          {/* <button type="button" className="btn btn-lg" className={styles.btn__main}>Download Resume</button> */}
           <a className={styles.btn_download} href="/patrick-cain-resume-v2.pdf" download="patrick_cain_resume">Download Resume</a>
+          <div className={styles.favoriteTools}>
+            <h2 className={styles.heading_tertiary}>Fav Tools</h2>
+            <FontAwesomeIcon icon={faJsSquare} className={styles.favoriteToolsIcon} />
+            <FontAwesomeIcon icon={faReact} className={styles.favoriteToolsIcon} />
+            <FontAwesomeIcon icon={faNodeJs} className={styles.favoriteToolsIcon} />
+            <FontAwesomeIcon icon={faBootstrap} className={styles.favoriteToolsIcon} />
+            <FontAwesomeIcon icon={faWordpress} className={styles.favoriteToolsIcon} />
+          </div>
+
+
+          
         </section>
+
         
       </main>
 

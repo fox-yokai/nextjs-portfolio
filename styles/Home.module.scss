@@ -5,10 +5,16 @@ $color-white: #fff;
 $color-primary: #84DCC6;
 $color-secondary: #4B4E6D;
 
+$size-sm: 600px;
+$size-md: 768px;
+$size-lg: 1366px;
+$size-xl: 1920px;
 
 .hero {
   height: auto;
-  padding-bottom: 6rem;
+  min-height: 60vh;
+  padding-bottom: 2rem;
+
 }
 
 .heading {
@@ -27,14 +33,22 @@ $color-secondary: #4B4E6D;
   }
 
   &_secondary {
+    font-size: 2.5rem;
     color: $color-white;
     margin-left: clamp(.25rem, 6rem, 10vw);
   }
 }
 
+.heading_tertiary {
+  color: $color-white;
+  text-align: center;
+  font-size: 2.5rem;
+  padding-bottom: 2rem;
+}
+
 .about_summary {
   height: auto;
-  min-height: 20rem;
+  min-height: 25vh;
 
   margin-left: clamp(.5rem, 20vw, 30%);
   margin-right: clamp(.5rem, 20vw, 30%);
@@ -46,6 +60,8 @@ $color-secondary: #4B4E6D;
     padding-bottom: 1rem;
   }
 }
+
+
 
 .btn__main {
   color: $color-primary;
@@ -74,3 +90,13 @@ $color-secondary: #4B4E6D;
 
 }
 
+.favoriteTools {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.favoriteToolsIcon {
+  height: 3.5rem;
+  padding: 0 1rem;
+  color: $color-primary;
+}
