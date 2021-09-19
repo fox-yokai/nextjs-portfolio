@@ -5,14 +5,14 @@
     - [x] remove Instagram link
     - [x] update Twitter link
 - Changes to home
-    - [ ] modify the developer/designer/programmer/youtuber to reflect my skills
+    - [x] modify the developer/designer/programmer/youtuber to reflect my skills
     - [ ] change picture
     - [ ] change "Favourite Projects" to my projects
         - [ ] add screenshots
     - [ ] update "Latest Code"
         - [ ] update the descriptions on GitHub
 - Changes to Footer
-    - [ ] remove instagram link
+    - [x] remove instagram link
 - Changes to About
     - [ ] update about me
     - [ ] update CV
