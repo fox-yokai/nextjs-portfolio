@@ -1,0 +1,27 @@
+# ToDo to Modify Template
+- Change color scheme
+    - [ ] Modify color scheme
+- Changes to Navbar
+    - [x] remove Instagram link
+    - [x] update Twitter link
+- Changes to home
+    - [ ] modify the developer/designer/programmer/youtuber to reflect my skills
+    - [ ] change picture
+    - [ ] change "Favourite Projects" to my projects
+        - [ ] add screenshots
+    - [ ] update "Latest Code"
+        - [ ] update the descriptions on GitHub
+- Changes to Footer
+    - [ ] remove instagram link
+- Changes to About
+    - [ ] update about me
+    - [ ] update CV
+    - [ ] update tech stack
+    - [ ] remove Facebook link under Social Links
+- Changes to Experience
+    - [ ] remove page?
+- Changes to Contact
+    - [ ] test that the form works
+    - [ ] remove Facebook link
+    - [ ] remove Instagram link
+    - [ ] Add LinkedIn link
