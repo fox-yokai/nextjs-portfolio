@@ -6,7 +6,7 @@
     - [x] update Twitter link
 - Changes to home
     - [x] modify the developer/designer/programmer/youtuber to reflect my skills
-    - [ ] change picture
+    - [x] change picture
     - [ ] change "Favourite Projects" to my projects
         - [ ] add screenshots
     - [ ] update "Latest Code"
@@ -25,3 +25,5 @@
     - [ ] remove Facebook link
     - [ ] remove Instagram link
     - [ ] Add LinkedIn link
+- Other
+    - [ ] Replace favicon
