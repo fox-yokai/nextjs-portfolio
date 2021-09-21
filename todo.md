@@ -21,9 +21,10 @@
 - Changes to Experience
     - [ ] remove page?
 - Changes to Contact
-    - [ ] test that the form works
-    - [ ] remove Facebook link
-    - [ ] remove Instagram link
-    - [ ] Add LinkedIn link
+    - [x] test that the form works
+    - [ ] create working form
+    - [x] remove Facebook link
+    - [x] remove Instagram link
+    - [x] Add LinkedIn link
 - Other
     - [ ] Replace favicon
