@@ -8,19 +8,19 @@ const userData = {
   address: "Minneapolis, MN, USA",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Midwinter Frolic",
+      link: "https://www.midwinterfrolic.org",
+      imgUrl: "/midwinterfrolic.jpg",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Trainer Trivia",
+      link: "https://mysterious-tundra-77712.herokuapp.com/",
+      imgUrl: "/trainer-trivia.jpg",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      title: "Top Shelf",
+      link: "https://murmuring-island-55644.herokuapp.com/index.html",
+      imgUrl: "/top-shelf.PNG",
     },
     {
       title: "CovidRescue",

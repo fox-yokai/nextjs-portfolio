@@ -7,8 +7,8 @@
 - Changes to home
     - [x] modify the developer/designer/programmer/youtuber to reflect my skills
     - [x] change picture
-    - [ ] change "Favourite Projects" to my projects
-        - [ ] add screenshots
+    - [x] change "Favourite Projects" to my projects
+        - [x] add screenshots
     - [ ] update "Latest Code"
         - [ ] update the descriptions on GitHub
 - Changes to Footer
