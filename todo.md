@@ -22,7 +22,7 @@
     - [ ] remove page?
 - Changes to Contact
     - [x] test that the form works
-    - [ ] create working form
+    - [x] create working form
     - [x] remove Facebook link
     - [x] remove Instagram link
     - [x] Add LinkedIn link
