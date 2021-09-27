@@ -28,3 +28,4 @@
     - [x] Add LinkedIn link
 - Other
     - [ ] Replace favicon
+    - [ ] Update Readme
