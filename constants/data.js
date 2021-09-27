@@ -52,9 +52,11 @@ const userData = {
     title:
       "I'm a full-stack software developer that loves building products that solve everyday problems; finding unique perspectives on how end-users interact with websites.",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `Full Stack Web Developer with a background in Level 1 and Level 2 technical support. Graduate
+      of the University of Minnesota Coding Boot Camp with a Bachelor of Science degree in
+      Information Technology. Focused on developing apps that help people solve everyday
+      problems; finding unique perspectives on how end-users interact with websites.`,
+      `I've been coding in React, Node.js, Express, MongoDB, MySQL, Bootstrap, Tailwind, PHP. Just to name a few.`,
     ],
     currentProject: "Instagram Clone using NextJS and TailwindCSS",
     currentProjectUrl: "https://github.com/fox-yokai/instagram",

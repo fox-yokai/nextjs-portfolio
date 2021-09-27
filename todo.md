@@ -14,12 +14,12 @@
 - Changes to Footer
     - [x] remove instagram link
 - Changes to About
-    - [ ] update about me
+    - [x] update about me
     - [x] update CV
     - [x] update tech stack
     - [x] remove Facebook link under Social Links
 - Changes to Experience
-    - [ ] remove page?
+    - [x] remove page?
 - Changes to Contact
     - [x] test that the form works
     - [x] create working form

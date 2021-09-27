@@ -41,7 +41,7 @@ export default function AboutMe() {
                 >
                   mail
                 </a>{" "}
-                and I'll get back. I swear.
+                and I'll get back.
               </p>
             </div>
             <div className="mt-8">
