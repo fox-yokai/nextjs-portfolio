@@ -17,7 +17,7 @@
     - [ ] update about me
     - [x] update CV
     - [ ] update tech stack
-    - [ ] remove Facebook link under Social Links
+    - [x] remove Facebook link under Social Links
 - Changes to Experience
     - [ ] remove page?
 - Changes to Contact
