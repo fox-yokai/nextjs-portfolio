@@ -104,7 +104,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1_4YmI9CSa75ipa7rxiJBVAMF2TSc-x0A/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/",
     twitter: "https://twitter.com/TheFoxYokai",

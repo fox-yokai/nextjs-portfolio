@@ -9,13 +9,13 @@
     - [x] change picture
     - [x] change "Favourite Projects" to my projects
         - [x] add screenshots
-    - [ ] update "Latest Code"
-        - [ ] update the descriptions on GitHub
+    - [x] update "Latest Code"
+        - [x] update the descriptions on GitHub
 - Changes to Footer
     - [x] remove instagram link
 - Changes to About
     - [ ] update about me
-    - [ ] update CV
+    - [x] update CV
     - [ ] update tech stack
     - [ ] remove Facebook link under Social Links
 - Changes to Experience
